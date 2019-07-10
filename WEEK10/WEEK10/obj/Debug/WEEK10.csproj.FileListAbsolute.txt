@@ -1,0 +1,7 @@
+C:\Users\Admin\ASSIGNMENT\WEEK10\WEEK10\bin\Debug\WEEK10.exe.config
+C:\Users\Admin\ASSIGNMENT\WEEK10\WEEK10\bin\Debug\WEEK10.exe
+C:\Users\Admin\ASSIGNMENT\WEEK10\WEEK10\bin\Debug\WEEK10.pdb
+C:\Users\Admin\ASSIGNMENT\WEEK10\WEEK10\obj\Debug\WEEK10.csprojAssemblyReference.cache
+C:\Users\Admin\ASSIGNMENT\WEEK10\WEEK10\obj\Debug\WEEK10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ASSIGNMENT\WEEK10\WEEK10\obj\Debug\WEEK10.exe
+C:\Users\Admin\ASSIGNMENT\WEEK10\WEEK10\obj\Debug\WEEK10.pdb
