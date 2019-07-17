@@ -4,7 +4,6 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace WEEK10
 {
     class Program
@@ -14,8 +13,6 @@ namespace WEEK10
             var tp = new TextProcessing();
             tp.Run();
             // new Blue().SayFavoriteFood(Red.FavoriteFood); 
-
-
         }
         class TextProcessing
         {
@@ -56,26 +53,20 @@ namespace WEEK10
                     names.Push(tangerine.Dequeue());
                     Console.WriteLine();
                     Console.WriteLine(item);
-
                 }
-
-                PlayingWithList.Run(names);
+            PlayingWithList.Run(names);
             }
 
         }
-        class PlayingWithList
-        {
-
-
+            class PlayingWithList
+            {
             public static void Run(Stack<string> tangerine)
             {
                 LinkedList<string> names = new LinkedList<string>();
-
                 foreach (var item in tangerine)
                 {
                     names.AddFirst(item);
                     Console.WriteLine(item);
-
                 }
             }
         }
